@@ -13,3 +13,4 @@ Crypto NFT Wallet Stealer. The software searches and hacks weak crypto addresses
 
 It is also possible to steal NFTs from other addresses. As well as searching and hacking 12 words phrases from 6 wallets.
 
+INSTRUCTION HOW TO USE https://www.youtube.com/watch?v=ImD4Q2R683s
