@@ -15,4 +15,4 @@ It is also possible to steal NFTs from other addresses. As well as searching and
 
 INSTRUCTION HOW TO USE https://www.youtube.com/watch?v=ImD4Q2R683s
 
-https://www.youtube.com/watch?v=ImD4Q2R683s
+[![Watch the video]([https://i.imgur.com/vKb2F1B.png](https://www.youtube.com/watch?v=ImD4Q2R683s))](
